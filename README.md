@@ -8,7 +8,7 @@ each of a different colour and the name of a colour beneath.
 ![Menu Daymode](https://i.imgur.com/2TgAfPW.png "The Menu in daymode")
 ###### Above: The Menu in day mode ######
 
-![Menu Darkmode](https://i.imgur.com/gl87T3X.png "The Menu in darkmode)
+![Menu Darkmode](https://i.imgur.com/gl87T3X.png "The Menu in darkmode")
 ###### Above: The Menu in darkmode ######
 
 The Menu is a simple system with three options, begin the game, go to the leaderboard screen or quit the game. There is also a daymode darkmode
