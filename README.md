@@ -1,4 +1,5 @@
-# Impossible-Game #
+# Impossible Game #
+### By Ben Chung ###
 
 Written using pygame, the aim of the game is to get as many points as possible within a given time. The user is prompted with a 4 squares,
 each of a different colour and the name of a colour beneath.
