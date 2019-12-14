@@ -37,3 +37,11 @@ The post game card displays three things; your score, the high score and the ave
 is read in the same way as for the leaderboard screen, the average reaction time is calculated by dividing the sum of a list of reaction
 times by the length of the list, the high score for the previous game is also appended to the end of the local text file, for use in future
 games. There is also a mini menu, whereby you can either retry the game, return to the menu or quit the game.
+
+## What I learned ##
+
+This is the first project that I have undertaken both in python and programming generally. This firstly helped to develop my approach to
+software development, my approach was first to get core functionality, and then build around that which, in this case meant first getting the important part: the main game, done first before worrying about menu and post game card done.
+
+Also this was my first introduction to PEP-8 development standard, another goal was to ensure that the code was as readable as possible
+and while it may not be perfect, as it was my first try, I'm certainly happy with how it turned out. I used it because it was going to be both submitted to my teachers, and because it was going to be uploaded to github, as well as building good habits for future projects. I overall think that the improvement to readability is well worth the extra time needed to avoid longlineitis.
